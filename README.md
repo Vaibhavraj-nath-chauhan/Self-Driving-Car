@@ -39,3 +39,10 @@ https://user-images.githubusercontent.com/68987546/165057699-87122e95-3b60-4b2a-
 
 1. C++ [Master Device]
 2. Arduino [Slave Device]
+
+***
+
+## Libraries Used
+
+1. WiringPi
+2. Open Cv
